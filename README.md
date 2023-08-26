@@ -1,2 +1,3 @@
-# polkadot-substrate-development-bootcamp-final-project
+# Polkadot Substrate Development Bootcamp Final Project
+
 Polkadot Rust Bootcamp Substrate Projects
